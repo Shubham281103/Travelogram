@@ -3,7 +3,7 @@
         "DB_USER": "Shubham",
         "DB_PASSWORD": "name=Shubham123",
         "DB_NAME": "test",
-        "GOOGLE_API_KEY": "AIzaSyCZEikfruhoVjGe3Whwvm5b_lVOF3qaiic",
+        "GOOGLE_API_KEY": "YOUR API KEY",
         "JWT_KEY": "supersecret_dont_share"
     }
 }
