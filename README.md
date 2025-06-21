@@ -30,20 +30,5 @@ Travelogram is a full-stack MERN (MongoDB, Express, React, Node.js) application 
 
 ---
 
-## 🏗️ Project Structure
 
-Travelogram/
-│
-├── Frontend/ # React app
-│ ├── src/
-│ └── .env # Google API key (ignored)
-│
-├── Backend/ # Node.js + Express server
-│ ├── routes/
-│ ├── controllers/
-│ ├── models/
-│ ├── config/
-│ └── nodemon.json # Ignored by Git
-│
-└── README.md
 
