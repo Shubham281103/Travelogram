@@ -1,5 +1,7 @@
+# Ignore env/config files
 Frontend/.env
 Backend/nodemon.json
 
-Frontend/node_modules
-Backend/node_modules
+# Ignore dependencies
+Frontend/node_modules/
+Backend/node_modules/
